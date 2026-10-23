@@ -1,31 +1,31 @@
 # Kore Play Studio
 
-> *"Construindo o núcleo da diversão."*
+> *"Mastering the core."*
 
 ---
 
-### 🎮 Sobre o Estúdio
-A **Kore Play Studio** é um estúdio independente focado no que realmente importa: a jogabilidade. 
-Acreditamos que a alma de um grande jogo reside em suas mecânicas principais. Por isso, nosso trabalho é dedicado a criar experiências indie onde cada interação, resposta e sistema é cuidadosamente polido até atingir a sua forma mais satisfatória e divertida.
+### 🎮 About the Studio
+**Kore Play Studio** is an independent studio focused on what truly matters: gameplay. 
+We believe the soul of a great game lies in its core mechanics. That's why our work is dedicated to creating indie experiences where every interaction, response, and system is carefully polished until it reaches its most satisfying and fun form.
 
-Menos ruído. Mais gameplay.
+Less noise. More gameplay.
 
 ---
 
 ### 🚧 Work In Progress (WIP)
-Este espaço está em construção. 
-Ainda estamos definindo nossa identidade visual (o logo está a caminho!), mas os motores já estão quentes e as mecânicas sendo testadas. 
+This space is currently under construction. 
+We are still defining our visual identity (the logo is on its way!), but our engines are fired up and the mechanics are being tested. 
 
-Em breve, traremos novidades sobre nossos primeiros projetos.
+Stay tuned. We'll be sharing updates on our first projects soon.
 
 ---
 
-### 📬 Contato & Redes
-Enquanto preparamos o site oficial, você pode nos acompanhar ou entrar em contato por aqui:
+### 📬 Contact & Socials
+While we prepare the official website, you can follow our journey or get in touch through the links below:
 
 - **Email:** [koreplaystudio@gmail.com]
 
 ---
 <p align="center">
-  <i>Kore Play Studio &copy; 2026 - Construindo o núcleo da diversão.</i>
+  <i>Kore Play Studio &copy; 2026</i>
 </p>
